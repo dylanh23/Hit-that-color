@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="d.hitthatcolorproversion.MenuActivity">
+    <group android:checkableBehavior="single">
+        <item
+            android:title="Easy" />
+        <item
+            android:title="Medium" />
+        <item
+            android:title="Hard"
+            />
+    </group>
+    <item
+        android:title="Reverse Wheel Controls"
+        android:checkable="true"
+        />
+    <item
+        android:title="Exit"
+        />
+</menu>

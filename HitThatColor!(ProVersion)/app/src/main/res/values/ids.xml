@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_id">697956149168</string>
+    <string name="leaderboard_easy__endless_mode">CgkIsM-2i6gUEAIQBw</string>
+    <string name="leaderboard_medium__endless_mode">CgkIsM-2i6gUEAIQCA</string>
+    <string name="leaderboard_hard__endless_mode">CgkIsM-2i6gUEAIQCQ</string>
+    <string name="leaderboard_easy__level_mode">CgkIsM-2i6gUEAIQCg</string>
+    <string name="leaderboard_medium__level_mode">CgkIsM-2i6gUEAIQCw</string>
+    <string name="leaderboard_hard__level_mode">CgkIsM-2i6gUEAIQDA</string>
+</resources>
